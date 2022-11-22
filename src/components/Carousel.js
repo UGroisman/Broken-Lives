@@ -1,4 +1,4 @@
-import slider1 from './img/slider.png';
+
 
 function Carousel(){
     return(
@@ -11,21 +11,21 @@ function Carousel(){
       </div>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="{slider1}" class="d-block w-100" alt="slider 1"/>
+          <img src="" class="d-block w-100" alt="slider 1"/>
           <div class="carousel-caption d-none d-md-block">
           <h5>ELIJA SANITARIOS CAMPANA PARA SU HOGAR</h5>
                 <p>Lo que UD. necesita</p>
           </div>
         </div>
         <div class="carousel-item">
-          <img src="{slider1}" class="d-block w-100" alt="slider 2"/>
+          <img src="" class="d-block w-100" alt="slider 2"/>
           <div class="carousel-caption d-none d-md-block">
             <h5>ELIJA SANITARIOS CAMPANA PARA SU HOGAR</h5>
                 <p>Lo que UD. necesita</p>
           </div>
         </div>
         <div class="carousel-item">
-          <img src="{slider1}" class="d-block w-100" alt="slider 3"/>
+          <img src="" class="d-block w-100" alt="slider 3"/>
           <div class="carousel-caption d-none d-md-block">
           <h5>ELIJA SANITARIOS CAMPANA PARA SU HOGAR</h5>
                 <p>Lo que UD. necesita</p>

@@ -1,4 +1,4 @@
-import logo from './img/Logo.png';
+
 
 function Navbar(){
     return(
@@ -14,10 +14,7 @@ function Navbar(){
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-auto">
                 <li class="nav-item margenLeft active">
-                            <a class="nav-link" href="#inicio">INICIO</a>
-                        </li>
-                        <li class="nav-item margenLeft active">
-                            <a class="nav-link" href="#quienesSomos">QUIENES SOMOS</a>
+                            <a class="nav-link" href="#inicio">Broken Lives</a>
                         </li>
                 </ul>
                 </div>
