@@ -3,10 +3,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import './css/styles.css';
 import Navbar from './components/Navbar';
-import Carousel from './components/Carousel';
 import Personajes from './components/Personajes';
 import Footer from './components/Footer'; 
-
 import Janusz from '../src/components/img/descarga.jpg'
 
 
